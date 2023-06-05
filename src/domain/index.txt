@@ -1,0 +1,1 @@
+entidades de domínio e regras de negócio
