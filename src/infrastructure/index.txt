@@ -1,1 +1,0 @@
-implementações de camadas de infraestrutura, como armazenamento em cache ou bancos de dados
